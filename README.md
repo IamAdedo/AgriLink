@@ -14,10 +14,14 @@ AgriLink bridges this gap with a modern web application that directly links cons
 
 ---
 
-Team Members: \
+### Team Members \
 Team Leader : Sasere, Saheed \ 
+
+Members: \
 Balogun Khadijah \
 Adedo, Ibrahim \
+Alimi Afeez O \
+Babatunde David \
 
 
 ---
