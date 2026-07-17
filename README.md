@@ -1,7 +1,7 @@
 # 🌱 AgriLink — Fresh Farm Connect
 
 > For **DEVHACK 2026 @ Ilorin Innovation Hub**
->> Team Dynamic Minds
+>> Team Dynamic Minds \
 >> July 17, 2026.
 
 **AgriLink** is a direct farm-to-table digital platform designed to eliminate intermediaries, reduce food waste, and provide urban consumers with instant access to fresh, locally sourced agricultural produce. 
@@ -77,7 +77,7 @@ Follow these steps to set up and run the project environment locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/iamadedo/agrilink
    cd agrilink
    ```
 
@@ -94,7 +94,7 @@ Follow these steps to set up and run the project environment locally:
 
 ---
 
-*Built with 💚 for the DevHack Hackathon.*
+*Built with 💚 for the DevHack Hackathon, Beyond the Screen. Hosted By Ilorin Innovation Hub*
 
 
 
