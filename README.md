@@ -19,7 +19,7 @@ Team Leader : \
 Saheed Sasere
 
 Members: \
-Balogun Khadijah \
+Balogun Khadijah - UI/UX Designer \
 Ibrahim Adedo \
 Alimi Afeez O \
 Babatunde David \
