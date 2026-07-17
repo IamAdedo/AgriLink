@@ -27,6 +27,9 @@ Abdulwahab Abdullah \
 Muiz Odusoga \
 Abdulsalam Idrees
 
+----
+
+> We came out 6th Position of 13 participants
 
 ---
 
