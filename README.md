@@ -24,6 +24,8 @@ Ibrahim Adedo \
 Alimi Afeez O \
 Babatunde David \
 Abdulwahab Abdullah \
+Muiz Odusoga \
+Abdulsalam Idrees
 
 
 ---
