@@ -1,5 +1,7 @@
 # 🌱 AgriLink — Fresh Farm Connect
 
+> For **DEVHACK 2026 @ Ilorin Innovation Hub**
+
 **AgriLink** is a direct farm-to-table digital platform designed to eliminate intermediaries, reduce food waste, and provide urban consumers with instant access to fresh, locally sourced agricultural produce. 
 
 🚀 **Live Web App:** [agrilink-devhack.vercel.app](https://agrilink-devhack.vercel.app)
@@ -29,7 +31,7 @@ Abdulsalam Idrees
 
 ----
 
-> We came out 6th Position of 13 participants
+> We came out 6th Position of 10 participants
 
 ---
 
