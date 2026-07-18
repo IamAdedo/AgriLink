@@ -26,7 +26,7 @@ Name: Dynamic Minds
 > Balogun Khadijah - *UI/UX Designer* \
 > [Ibrahim S. Adedo](https://iamadedo-profile.vercel.app) - *Lead Dev* \
 > Alimi Afeez O. - *PPT Designer* \
-> Babatunde David - *App testing* \
+> [Babatunde David](https://linkedin.com/in/david-babatunde12) - *App testing* \
 > Abdulwahab Abdullah \
 > Muiz Odusoga \
 > Abdulsalam Idrees
