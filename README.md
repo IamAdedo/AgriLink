@@ -1,7 +1,7 @@
 # 🌱 AgriLink — Fresh Farm Connect
 
 > For **DEVHACK 2026 @ Ilorin Innovation Hub**
-> > July 17, 2026. 
+> July 17, 2026. 
 >> Team Dynamic Minds
 >>> 6th Position
 
