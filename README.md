@@ -1,8 +1,8 @@
 # 🌱 AgriLink — Fresh Farm Connect
 
 > For **DEVHACK 2026 @ Ilorin Innovation Hub**
->> Team Dynamic Minds \
->>> 6th Position \ 
+>> Team Dynamic Minds
+>>> 6th Position \
 >> July 17, 2026. 
 
 **AgriLink** is a direct farm-to-table digital platform designed to eliminate intermediaries, reduce food waste, and provide urban consumers with instant access to fresh, locally sourced agricultural produce. 
