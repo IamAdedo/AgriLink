@@ -22,10 +22,10 @@ AgriLink bridges this gap with a modern web application that directly links cons
 Name: Dynamic Minds
  
 ### Team Members 
-> Saheed G. Sasere - *Team Leader / Dev* \
+> Saheed G. Sasere - *Team Leader / Presenter / Dev* \
 > Balogun Khadijah - *UI/UX Designer* \
 > [Ibrahim S. Adedo](https://iamadedo-profile.vercel.app) - *Lead Dev* \
-> Alimi Afeez O. \
+> Alimi Afeez O. - *PPT Designer* \
 > Babatunde David - *App testing* \
 > Abdulwahab Abdullah \
 > Muiz Odusoga \
